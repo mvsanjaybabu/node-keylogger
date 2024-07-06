@@ -1,0 +1,20 @@
+{
+    "name": "node-keylogger",
+    "version": "0.0.1",
+    "description": "Simple Node.js keylogger using event emitters",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "keylogger",
+        "keyboard",
+        "input",
+        "linux"
+    ],
+    "author": "Tasos Soukoulis <soukoulis.tasos@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "keypress": "^0.2.1"
+    }
+}
